@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dd1b90cb-8fd7-4e4a-9572-4b79e924a787",
+  "export_job_id": "16b6a3db-b31c-4cf7-82d9-328fa747b0f8",
   "id_short": 317019,
-  "published_at": "2026-04-19T07:49:09Z",
+  "published_at": "2026-04-22T19:32:55Z",
   "repo_name": "white-space-finder-in-houston-pasadena-the-woodlands-metro-texas-us-sample-317019",
   "sample_asset_name": "beamstation_317019_food_and_drink-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/317019/beamstation_317019_food_and_drink-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "f18b5f58585235f983f0a75accd604afcd4ed4b493fd25e6387d55940e5351f7",
-  "sample_size_bytes": 104016,
-  "total_records": 246
+  "sample_records": 22,
+  "sample_sha256": "c3c8c98c76c5c1a079f778c6ab96ca97139ad920a509e559f54f002888ae9e76",
+  "sample_size_bytes": 96618,
+  "total_records": 221
 }

@@ -1,6 +1,6 @@
 # White Space Finder in Houston-Pasadena-The Woodlands (Metro), Texas, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `317019` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 221 records |
-| Free sample size | 22 records (9.95%) |
-| Last export | 2026-04-22T13:19:08.173299+00:00 |
+| Full dataset size | 250 records |
+| Free sample size | 25 records (10.0%) |
+| Last export | 2026-04-29T14:06:59.150447+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-houston-pasadena-the-woodlands-metro-texas-us-sample-317019/releases/download/sample-latest/beamstation_317019_food_and_drink-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
